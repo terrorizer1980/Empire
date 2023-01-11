@@ -13,7 +13,7 @@
 # -----BUILD ENTRY-----
 
 # image base
-FROM python:3.7.5-buster
+FROM python:3.12.0a3-buster
 
 # extra metadata
 LABEL maintainer="bc-security"
